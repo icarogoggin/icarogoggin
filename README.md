@@ -1,7 +1,7 @@
 ## Oi! Eu sou o Ícaro Goggin, Seja Bem-vindo(a) 👋
 * Brasileiro :brazil:, Nordestino :desert:
 * Aluno da Blue Edtech :blue_heart:
-* Estudante de Programação :computer:
+* Junior Full Stack Developer :computer:
 <div>
   <a href="https://github.com/icarogoggin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icarogoggin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
