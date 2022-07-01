@@ -1,6 +1,5 @@
 ## Oi! Eu sou o Ícaro Goggin, Seja Bem-vindo(a) 👋
 * Brasileiro :brazil:, Nordestino :desert:
-* Aluno da Blue Edtech :blue_heart:
 * Junior Full Stack Developer :computer:
 <div>
   <a href="https://github.com/icarogoggin">
