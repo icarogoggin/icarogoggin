@@ -6,8 +6,17 @@ Sou um desenvolvedor Full Stack Júnior apaixonado por criar soluções inovador
 
 ### Estatísticas do GitHub
 
-[![Ícaro Goggin GitHub Stats](https://github-readme-stats.vercel.app/api?username=icarogoggin&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icarogoggin&layout=compact&langs_count=16&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icarogoggin&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=icarogoggin&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true" alt="GitHub Stats Alternative" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=icarogoggin&layout=compact&langs_count=8&theme=dark" alt="Top Languages Alternative" />
+</p>
 
 ### Habilidades
 
