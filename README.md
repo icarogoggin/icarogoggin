@@ -1,59 +1,66 @@
-## Olá! Eu sou o Ícaro Goggin 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=300&section=header&text=ÍCARO%20GOGGIN&fontSize=80&animation=twinkling&fontAlignY=40&desc=BUILDER%20|%20PROBLEM%20SOLVER%20|%20MAKER&descSize=25&descAlignY=65&fontColor=00FF41" />
+</p>
 
-### 💡 O Builder por Trás do Código: Transformando Ideias em Soluções Reais
+<p align="center">
+  <a href="https://github.com/icarogoggin">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Codando+soluções+para+o+mundo+real;Apaixonado+por+Agentes+de+IA+e+Automação;Explorando+a+conexão+Software+e+Hardware;Builder:+Python,+NodeJS,+IoT,+Cibersegurança" alt="Typing SVG" />
+  </a>
+</p>
 
-Sou um **Builder** e **Problem Solver** apaixonado por dar vida a ideias através do código. Minha jornada é impulsionada pela curiosidade em criar ferramentas que não apenas funcionam, mas que resolvem desafios práticos, otimizam processos e geram valor tangível. Com uma base sólida em **Administração**, consigo alinhar a visão de negócio com a execução técnica, transformando conceitos em soluções eficientes.
+---
 
-Minha paixão reside na interseção entre **Automação Inteligente, Inteligência Artificial, IoT e Hardware**, buscando constantemente integrar o mundo digital ao físico para criar sistemas autônomos e impactantes.
+### 💡 O Builder por Trás do Código
+
+Sou um **Builder** e **Problem Solver** movido pela curiosidade de transformar ideias em ferramentas práticas. Não crio código apenas pelo código; meu foco é construir soluções que automatizam o trabalho manual, integram sistemas complexos e geram inteligência onde antes não existia. Com background em **Administração**, busco sempre o equilíbrio entre a utilidade técnica e o valor real para o mundo.
 
 ---
 
 ### 🧠 Onde Minha Curiosidade Me Leva
 
 #### 🤖 Agentes Autônomos & Inteligência Artificial
+Não me contento com chatbots estáticos. Gosto de construir **agentes ativos** que veem, analisam e tomam decisões. Utilizo modelos como **Gemini e LLMs locais** para criar sistemas que executam tarefas de forma autônoma.
+*   **Projetos:** *Sentinela AI* (auditoria de segurança) e *DealHunter AI* (scraper inteligente).
 
-Minha área mais ativa e empolgante! Não me contento com chatbots; busco construir **agentes de IA** que percebem, analisam e tomam decisões. Projetos como o **"Sentinela AI"** (auditoria de segurança via vídeo) e o **"DealHunter AI"** (scraper de promoções inteligentes) são exemplos de como utilizo **modelos Gemini e LLMs locais** para criar inteligência onde antes não existia.
+#### 🔌 IoT & Conexão com o Mundo Físico
+Adoro "sujar as mãos" com hardware. O desafio de fazer o software conversar com máquinas legadas e equipamentos físicos me fascina. Sou um entusiasta da **Impressão 3D** e da integração entre bits e átomos.
+*   **Destaque:** Monitoramento de bombas de combustível com protocolos industriais e concentradores.
 
-#### 🔌 IoT & A Conexão com o Mundo Físico
+#### 📈 Hacking de Produtividade & Negócios
+Meu código quase sempre tem um viés prático e comercial. Desenvolvo robôs de **Web Scraping** para extrair dados estruturados e automações que otimizam fluxos de vendas e gestão de comunidades.
+*   **Exemplo:** *DescontinhosPE* para automação de ofertas e engajamento.
 
-Adoro "sujar as mãos" com hardware! Diferente do software puro, o desafio de fazer a tecnologia conversar com o mundo real me fascina. O projeto de **monitoramento de bombas de combustível**, integrando protocolos Wayne e concentradores Companytec, demonstra meu interesse em conectar software a equipamentos físicos e legados. A **impressão 3D** complementa essa paixão por criar soluções tangíveis.
-
-#### 📈 Soluções de Negócio & Hacking de Produtividade
-
-Meu background em administração me dá uma perspectiva única: o código deve servir a um propósito comercial. Desenvolvo automações que otimizam vendas (como o **"DescontinhosPE"** para gestão de comunidades) e utilizo **Web Scraping** para coletar e estruturar dados da internet, transformando informações brutas em insights valiosos.
-
-#### 🔒 A Nova Fronteira: Cibersegurança
-
-Estou expandindo meu arsenal para a **Segurança da Informação**, cursando a faculdade e explorando o **Red Teaming**. Meu objetivo é pensar como um atacante para construir defesas mais robustas, garantindo que minhas criações sejam não apenas inovadoras, mas também seguras.
-
----
-
-### 🛠️ Minhas Ferramentas Favoritas
-
-**Linguagens & Frameworks:** JavaScript (ES6+), NodeJS, NestJS, Python, Flask, ReactJS, HTML5, CSS3
-
-**Banco de Dados:** PostgreSQL (SQL Avançado), Firebase, MongoDB
-
-**DevOps & Cloud:** Git, GitHub, CI/CD Básico, Docker (Em estudo), Terraform (Em estudo)
-
-**Metodologias & Arquitetura:** Microsserviços, Arquitetura de Software, Metodologias Ágeis (Scrum, Kanban), TDD (Em estudo)
-
-**Especialização:** Automação de Processos (Google Workspace/Apps Script), Engenharia de Produto, Análise de Negócios, Segurança da Informação (Em estudo)
+#### 🔒 Cibersegurança: A Nova Fronteira
+Estou expandindo meu "cinto de utilidades" para a Segurança da Informação. Meu foco em **Red Teaming** me ajuda a pensar como um atacante para construir aplicações blindadas e resilientes.
 
 ---
 
-### 📊 Minhas Contribuições & Atividade
+### 🛠️ Meu Arsenal Técnico
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icarogoggin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=icarogoggin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true&border_radius=10" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+---
+
+### 📊 Atividade no GitHub
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icarogoggin&theme=matrix&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=icarogoggin&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=icarogoggin&show_icons=true&theme=matrix&include_all_commits=true&count_private=true&hide_rank=true&border_radius=5" alt="GitHub Stats" />
 </p>
 
 ---
@@ -62,16 +69,16 @@ Estou expandindo meu arsenal para a **Segurança da Informação**, cursando a f
 
 <p align="center">
   <a href="https://www.linkedin.com/in/icarogoggin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:icaro.goggin@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" />
 </p>
