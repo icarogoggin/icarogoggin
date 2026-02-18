@@ -12,7 +12,7 @@ Minha paixão reside na interseção entre **Automação Inteligente, Inteligên
 
 #### 🤖 Agentes Autônomos & Inteligência Artificial
 Não me contento com chatbots estáticos. Gosto de construir **agentes ativos** que veem, analisam e tomam decisões. Utilizo modelos como **Gemini e LLMs locais** para criar sistemas que executam tarefas de forma autônoma.
-*   **Projetos:** *Sentinela AI* (auditoria de segurança) e *DealHunter AI* (scraper inteligente).
+*   **Projetos:** *Sentinela AI* (auditoria de segurança via vídeo) e *DealHunter AI* (scraper de promoções inteligentes).
 
 #### 🔌 IoT & Conexão com o Mundo Físico
 Adoro "sujar as mãos" com hardware. O desafio de fazer o software conversar com máquinas legadas e equipamentos físicos me fascina. Sou um entusiasta da **Impressão 3D** e da integração entre bits e átomos.
@@ -60,6 +60,9 @@ Estou expandindo meu "cinto de utilidades" para a Segurança da Informação. Me
 *   **[Comitator Gen](https://github.com/icarogoggin/comitator_gen)**: Um projeto Python focado em automação, refletindo meu interesse em otimizar tarefas e gerar valor através do código.
 *   **[Kanban Frontend](https://github.com/icarogoggin/kanban-frontend)**: Exemplo de aplicação web com foco em organização e produtividade, utilizando JavaScript.
 *   **[FSMOD04-FTE](https://github.com/icarogoggin/fsmod04-fte)**: Projeto JavaScript que demonstra minha capacidade em desenvolver soluções Full Stack.
+*   **[Sistema Spartacus BJJ](https://github.com/icarogoggin/sistema-spartacus-bjj)**: Sistema de gestão para academias de Jiu-Jitsu, desenvolvido com TypeScript.
+*   **[Lorena Stock Manager Mobile](https://github.com/icarogoggin/lorena-stock-manager-mobile)**: Aplicação mobile para gerenciamento de estoque, desenvolvida com TypeScript.
+*   **[Jiujitsu App](https://github.com/icarogoggin/jiujitsuapp)**: Aplicação para Jiu-Jitsu, desenvolvida com TypeScript.
 
 ---
 
