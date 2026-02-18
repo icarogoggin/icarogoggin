@@ -1,52 +1,55 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=ÍCARO%20GOGGIN&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20Sênior%20|%20Líder%20Técnico&descSize=25&descAlignY=60" />
-</p>
+## Olá! Eu sou o Ícaro Goggin 👋
 
-<p align="center">
-  <a href="https://github.com/icarogoggin">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Especialista+em+Automação+e+Segurança;Líder+Técnico+com+4+anos+de+experiência;Full+Stack:+NodeJS,+NestJS,+Python,+React" alt="Typing SVG" />
-  </a>
-</p>
+### 💡 O Builder por Trás do Código: Transformando Ideias em Soluções Reais
+
+Sou um **Builder** e **Problem Solver** apaixonado por dar vida a ideias através do código. Minha jornada é impulsionada pela curiosidade em criar ferramentas que não apenas funcionam, mas que resolvem desafios práticos, otimizam processos e geram valor tangível. Com uma base sólida em **Administração**, consigo alinhar a visão de negócio com a execução técnica, transformando conceitos em soluções eficientes.
+
+Minha paixão reside na interseção entre **Automação Inteligente, Inteligência Artificial, IoT e Hardware**, buscando constantemente integrar o mundo digital ao físico para criar sistemas autônomos e impactantes.
 
 ---
 
-### 🚀 Sobre Mim
+### 🧠 Onde Minha Curiosidade Me Leva
 
-Desenvolvedor **Full Stack Sênior** e **Líder Técnico** com mais de 4 anos de experiência na criação de soluções escaláveis e automações de alto impacto. Minha expertise une a precisão técnica do **Backend (NodeJS, NestJS, Python)** com a fluidez do **Frontend (ReactJS, NextJS)**, sempre alinhada aos objetivos estratégicos de negócio, fruto da minha sólida base em **Administração**.
+#### 🤖 Agentes Autônomos & Inteligência Artificial
 
-Atualmente, foco em elevar o padrão de segurança das minhas entregas através de estudos avançados em **Segurança da Informação** e práticas de **DevSecOps**.
+Minha área mais ativa e empolgante! Não me contento com chatbots; busco construir **agentes de IA** que percebem, analisam e tomam decisões. Projetos como o **"Sentinela AI"** (auditoria de segurança via vídeo) e o **"DealHunter AI"** (scraper de promoções inteligentes) são exemplos de como utilizo **modelos Gemini e LLMs locais** para criar inteligência onde antes não existia.
 
----
+#### 🔌 IoT & A Conexão com o Mundo Físico
 
-### 🛠️ Minha Stack Tecnológica
+Adoro "sujar as mãos" com hardware! Diferente do software puro, o desafio de fazer a tecnologia conversar com o mundo real me fascina. O projeto de **monitoramento de bombas de combustível**, integrando protocolos Wayne e concentradores Companytec, demonstra meu interesse em conectar software a equipamentos físicos e legados. A **impressão 3D** complementa essa paixão por criar soluções tangíveis.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-</p>
+#### 📈 Soluções de Negócio & Hacking de Produtividade
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Workspace_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</p>
+Meu background em administração me dá uma perspectiva única: o código deve servir a um propósito comercial. Desenvolvo automações que otimizam vendas (como o **"DescontinhosPE"** para gestão de comunidades) e utilizo **Web Scraping** para coletar e estruturar dados da internet, transformando informações brutas em insights valiosos.
+
+#### 🔒 A Nova Fronteira: Cibersegurança
+
+Estou expandindo meu arsenal para a **Segurança da Informação**, cursando a faculdade e explorando o **Red Teaming**. Meu objetivo é pensar como um atacante para construir defesas mais robustas, garantindo que minhas criações sejam não apenas inovadoras, mas também seguras.
 
 ---
 
-### 📈 Estatísticas & Impacto
+### 🛠️ Minhas Ferramentas Favoritas
+
+**Linguagens & Frameworks:** JavaScript (ES6+), NodeJS, NestJS, Python, Flask, ReactJS, HTML5, CSS3
+
+**Banco de Dados:** PostgreSQL (SQL Avançado), Firebase, MongoDB
+
+**DevOps & Cloud:** Git, GitHub, CI/CD Básico, Docker (Em estudo), Terraform (Em estudo)
+
+**Metodologias & Arquitetura:** Microsserviços, Arquitetura de Software, Metodologias Ágeis (Scrum, Kanban), TDD (Em estudo)
+
+**Especialização:** Automação de Processos (Google Workspace/Apps Script), Engenharia de Produto, Análise de Negócios, Segurança da Informação (Em estudo)
+
+---
+
+### 📊 Minhas Contribuições & Atividade
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=icarogoggin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=icarogoggin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=false&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=icarogoggin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true&border_radius=10" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -55,20 +58,7 @@ Atualmente, foco em elevar o padrão de segurança das minhas entregas através 
 
 ---
 
-### 💼 Experiência Destacada
-
-> **Líder de Equipe de Desenvolvimento | ITnsify** (2022 - Presente)
-> *   Arquitetura de microsserviços e liderança técnica de projetos críticos.
-> *   Integração estratégica de APIs do Google Workspace para automação corporativa.
-> *   Foco total em ROI e alinhamento entre tecnologia e negócio.
-
-> **Desenvolvedor Full Stack Júnior | ITnsify** (2021 - 2022)
-> *   Desenvolvimento de Dashboards financeiros complexos (React + Flask + PostgreSQL).
-> *   Implementação de automações de alto volume com Apps Script.
-
----
-
-### 📫 Vamos Conversar?
+### 📫 Vamos Construir Algo Juntos?
 
 <p align="center">
   <a href="https://www.linkedin.com/in/icarogoggin/" target="_blank">
