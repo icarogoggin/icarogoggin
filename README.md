@@ -60,6 +60,13 @@ _(Set 2021 - Nov 2022)_
 - Desenvolvimento de web apps do zero utilizando React e frameworks Python (Flask/PostgreSQL) focados na visualização e controle de dados internos (Dashboards operacionais).
 - Automação via Google Apps Script (JavaScript) processando alto volume de dados da operação diária corporativa.
 
+## 🎓 Formação e Certificações
+
+- **Graduação Tecnológica em Inteligência Artificial** – Universidade Federal de Mato Grosso do Sul (UFMS) _(Fev/2026 - 2028)_
+- **Graduação em Segurança da Informação** – UniFatecie _(Em curso, Foco em DevSecOps)_
+- **Bacharelado em Administração de Empresas** – Faculdade Escritor Osman da Costa Lins _(Background em estratégia, negócios e ROI)_
+- **Certificações em Destaque:** Docker Foundations Course (ScholarHat), Cloud & DevOps.
+
 ---
 
 ## 🌎 Onde me Encontrar
