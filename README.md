@@ -1,77 +1,89 @@
-# Olá, eu sou o Ícaro Goggin 👋
+<div align="center">
 
-**Desenvolvedor Full Stack Pleno | Especialista em Automação, Soluções B2B & IA**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=%C3%8Dcaro+Goggin;Engenheiro+de+Software+Full+Stack;Builder+%E2%80%94+Produtos+que+geram+resultado." alt="Ícaro Goggin" />
 
-Sou um Engenheiro de Software focado em construir **produtos escaláveis que geram impacto real nos negócios**. Com mais de 4 anos de experiência e um diferencial forte — **Background em Administração de Empresas** —, eu não apenas escrevo código, mas projeto a arquitetura pensando em **Eficiência Operacional e Retorno sobre Investimento (ROI)**.
+<p>
+  <a href="https://linkedin.com/in/icarogoggin">
+    <img src="https://img.shields.io/badge/LinkedIn-icarogoggin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:icaro.goggin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-icaro.goggin%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/icarogoggin/vaultscan">
+    <img src="https://img.shields.io/badge/VaultScan-open--source-a855f7?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=icarogoggin&style=flat-square&color=a855f7&label=visitas" />
+</p>
 
-Nos últimos anos, atuei ativamente na liderança técnica e entrega de soluções complexas na **ITnsify**, onde desenvolvi integrações de alto volume, arquitetura de sistemas e automações corporativas.
-
-Atualmente, minha stack principal gira em torno do ecossistema TypeScript (**Node.js, NestJS, React, Next.js**) e **Python**, aliados à adoção forte de princípios **SOLID, Clean Architecture, Docker** e na integração com Inteligências Artificiais Generativas.
-
----
-
-## 🛠️ Tech Stack & Ferramentas
-
-- **Backend & Arquitetura:** Node.js, NestJS, Python (Flask), TypeScript.
-- **Frontend:** React, Next.js 14, Tailwind CSS.
-- **Bancos de Dados & ORMs:** PostgreSQL, MongoDB, Prisma ORM, TypeORM.
-- **DevOps, Cloud & Governança:** Git/GitHub Actions (CI/CD), REST APIs, Docker (Certificado Docker Foundations).
-- **Especialidades Recentes:** Integração com IAs Generativas (Groq, Gemini), Google Workspace APIs/Apps Script.
-- **Padrões & Clean Code:** Microsserviços, SOLID, Arquitetura Limpa.
+</div>
 
 ---
 
-## 🚀 Projetos em Destaque
+Construo **produtos escaláveis com impacto real**. Meu diferencial é combinar 4+ anos de engenharia de software com um background em **Administração de Empresas** — o código que entrego resolve problemas de negócio, não apenas requisitos técnicos.
 
-_(Os repositórios listados priorizam a qualidade arquitetural e o impacto prático em rotinas de negócios — menos "tutoriais" e mais sistemas maduros resolutores de problemas)._
-
-### 📈 [FinanceAI - SaaS Financeiro AI-First](https://github.com/icarogoggin) (Privado/Em Desenvolvimento)
-
-Um SaaS financeiro robusto construído com **Next.js 14** e **NestJS**. Utilizei **Clean Architecture** para garantir testabilidade, manutenção e escalabilidade do backend.
-
-- **O grande diferencial:** Auto-categorização inteligente de transações utilizando LLMs (Groq/Gemini) em tempo real, reduzindo gargalos manuais.
-- **Arquitetura:** ORM Prisma integrado ao PostgreSQL, containerizado com Docker.
-
-### ⚙️ [Enterprise Automation Platform](https://github.com/icarogoggin) (Projetos Fechados - ITnsify)
-
-Soluções full-stack e automações integradas ao ecosistema do Google Workspace.
-
-- **Arquitetura e Governança:** Comunicação segura de dados (OAuth 2.0) envolvendo microsserviços e garantindo a alta disponibilidade da plataforma (Node.js/NestJS).
-- **Métrica de Sucesso:** Eliminação de gargalos humanos de vários setores corporativos (redução de até 90% do esforço manual prévio em rotinas críticas de RH e Financeiro).
-
-### 📱 [Quick2Mobile](https://github.com/icarogoggin/Quick2Mobile)
-
-Extensão para Google Chrome utilizando JavaScript focada na produtividade. A demonstração de uma entrega completa que provê uma aplicação útil direto no browser.
+Na **ITnsify**, liderei integrações enterprise de alto volume, automações que eliminaram até **90% do esforço manual** em rotinas críticas de RH e Financeiro, e a evolução arquitetural da plataforma de microsserviços.
 
 ---
 
-## 👔 Trajetória de Impacto
+## 🛠 Stack
 
-**Líder de Equipe & Software Engineer @ [ITnsify](https://itnsify.com)**
-_(Nov 2022 - Presente)_
+**Backend & API**
 
-- Liderança técnica guiando o time no desenvolvimento de integrações complexas de APIs.
-- Responsável por estabelecer padrões de código, code reviews e manter o ciclo de vida (CI/CD) de microsserviços estável e performático.
-- Relacionamento direto com o board comercial para a tradução de estratégias de negócios em código e features escaláveis aos clientes.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-**Desenvolvedor Full Stack Júnior @ [ITnsify](https://itnsify.com)**
-_(Set 2021 - Nov 2022)_
+**Frontend**
 
-- Desenvolvimento de web apps do zero utilizando React e frameworks Python (Flask/PostgreSQL) focados na visualização e controle de dados internos (Dashboards operacionais).
-- Automação via Google Apps Script (JavaScript) processando alto volume de dados da operação diária corporativa.
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-## 🎓 Formação e Certificações
+**Dados & Infraestrutura**
 
-- **Graduação Tecnológica em Inteligência Artificial** – Universidade Federal de Mato Grosso do Sul (UFMS) _(Fev/2026 - 2028)_
-- **Graduação em Segurança da Informação** – UniFatecie _(Em curso, Foco em DevSecOps)_
-- **Bacharelado em Administração de Empresas** – Faculdade Escritor Osman da Costa Lins _(Background em estratégia, negócios e ROI)_
-- **Certificações em Destaque:** Docker Foundations Course (ScholarHat), Cloud & DevOps.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
-## 🌎 Onde me Encontrar
+## 🚀 Projeto em destaque
 
-- 🤝 **LinkedIn:** [linkedin.com/in/icarogoggin](https://www.linkedin.com/in/icarogoggin)
-- 📧 **E-mail:** [icaro.goggin@gmail.com](mailto:icaro.goggin@gmail.com)
+<a href="https://github.com/icarogoggin/vaultscan">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=icarogoggin&repo=vaultscan&theme=transparent&hide_border=true&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7" />
+</a>
 
-> _"O melhor código é o que resolve um problema de forma elegante, escalável e faz sentido para o negócio."_
+<br clear="left"/>
+
+**VaultScan** — scanner open-source que varre todos os repositórios públicos de um perfil GitHub em busca de segredos vazados, CVEs em dependências (npm, PyPI, Go, Ruby, Rust, PHP) e más configurações de infraestrutura. Relatório em tempo real com pontuação por repositório.
+
+---
+
+## 📊 Métricas
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=icarogoggin&show_icons=true&theme=transparent&hide_border=true&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarogoggin&layout=compact&theme=transparent&hide_border=true&title_color=a855f7&text_color=e2e8f0&langs_count=6" />
+
+</div>
+
+---
+
+## 🎓 Formação
+
+| Curso | Instituição | Status |
+|-------|------------|--------|
+| Inteligência Artificial | UFMS | Em curso (2026–2028) |
+| Segurança da Informação | UniFatecie | Em curso |
+| Administração de Empresas | FOCL | Concluído |
+
+---
+
+<div align="center">
+  <i>"O melhor código resolve um problema de forma elegante, escalável e faz sentido para o negócio."</i>
+</div>
