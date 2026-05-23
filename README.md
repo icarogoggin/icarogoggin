@@ -61,6 +61,16 @@ Na **ITnsify**, liderei integrações enterprise de alto volume, automações qu
 
 **VaultScan** — scanner open-source que varre todos os repositórios públicos de um perfil GitHub em busca de segredos vazados, CVEs em dependências (npm, PyPI, Go, Ruby, Rust, PHP) e más configurações de infraestrutura. Relatório em tempo real com pontuação por repositório.
 
+<br />
+
+<a href="https://github.com/icarogoggin/ai-init-node">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=icarogoggin&repo=ai-init-node&theme=transparent&hide_border=true&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7" />
+</a>
+
+<br clear="left"/>
+
+**ai-init-node** — ferramenta CLI open-source que estrutura repositórios nativos para IA (Cursor, Claude, Gemini). Faz bootstrapping inteligente, injeção de hooks de CI/CD e provê um Linter de arquitetura rigoroso para manter times focados sem criar débito técnico.
+
 ---
 
 ## 📊 Métricas
