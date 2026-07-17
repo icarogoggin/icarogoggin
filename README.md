@@ -67,6 +67,26 @@ Na **ITnsify**, liderei integrações enterprise de alto volume, automações qu
 
 ---
 
+## 📊 Métricas
+
+<div align="center">
+
+<img src="metrics.svg" alt="GitHub metrics — estatísticas, linguagens e calendário de contribuições de Ícaro Goggin" />
+
+</div>
+
+**🐍 Contribuições no último ano**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/icarogoggin/icarogoggin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/icarogoggin/icarogoggin/output/github-snake.svg" />
+  <img alt="Cobra comendo o grafo de contribuições do GitHub" src="https://raw.githubusercontent.com/icarogoggin/icarogoggin/output/github-snake.svg" />
+</picture>
+
+> Gráficos gerados automaticamente via GitHub Actions (atualizam sozinhos) — arquivos versionados, sem dependência de serviço externo.
+
+---
+
 ## 🎓 Formação
 
 | Curso | Instituição | Status |
