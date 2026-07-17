@@ -51,7 +51,7 @@ Na **ITnsify**, liderei integrações enterprise de alto volume, automações qu
 
 ---
 
-## 🚀 Projeto em destaque
+## 🚀 Projetos em destaque
 
 <a href="https://github.com/icarogoggin/vaultscan">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=icarogoggin&repo=vaultscan&bg_color=0d1117&hide_border=true&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7" />
@@ -70,6 +70,14 @@ Na **ITnsify**, liderei integrações enterprise de alto volume, automações qu
 <br clear="left"/>
 
 **ai-init-node** — ferramenta CLI open-source que estrutura repositórios nativos para IA (Cursor, Claude, Gemini). Faz bootstrapping inteligente, injeção de hooks de CI/CD e provê um Linter de arquitetura rigoroso para manter times focados sem criar débito técnico.
+
+### Mais projetos
+
+| Projeto | O que é | Stack |
+|---------|---------|-------|
+| **[api_sistema_financeiro](https://github.com/icarogoggin/api_sistema_financeiro)** | API REST de gestão financeira com **Clean Architecture** e **DDD** — regras de negócio isoladas de framework e infraestrutura. | NestJS · Prisma · PostgreSQL · Swagger |
+| **[Inspector](https://github.com/icarogoggin/Inspector)** | App fullstack **assíncrono**: enfileira jobs e captura screenshots headless via Puppeteer, com storage S3-compatible. | NestJS · BullMQ · Puppeteer · MinIO |
+| **[Simulador-Elevadores-Go](https://github.com/icarogoggin/Simulador-Elevadores-Go)** | Motor de simulação **lock-free** (Actor Model) com despacho inteligente por ETA e telemetria em tempo real. | Go · Goroutines · Channels |
 
 ---
 
