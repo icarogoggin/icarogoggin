@@ -71,7 +71,7 @@ Na **ITnsify**, liderei integrações enterprise de alto volume, automações qu
 
 <div align="center">
 
-<img src="stats.svg" alt="Estatísticas do GitHub de Ícaro Goggin — números e linguagens mais usadas" width="100%" />
+<img src="stats.svg?v=2" alt="Estatísticas do GitHub de Ícaro Goggin — números e linguagens mais usadas" width="100%" />
 
 </div>
 
