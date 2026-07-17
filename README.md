@@ -49,6 +49,14 @@ Na **ITnsify**, liderei integrações enterprise de alto volume, automações qu
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
+**Cloud & DevSecOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&logo=hackthebox&logoColor=white)
+
 ---
 
 ## 🚀 Projetos em destaque
@@ -94,6 +102,18 @@ Na **ITnsify**, liderei integrações enterprise de alto volume, automações qu
 | Inteligência Artificial | UFMS | Em curso (2026–2028) |
 | Segurança da Informação | UniFatecie | Em curso |
 | Administração de Empresas | FOCL | Concluído |
+
+---
+
+## 📜 Certificações
+
+| Certificação | Emissor | Ano |
+|--------------|---------|-----|
+| Cloud Fundamentals, Administration & Solution Architect | FIAP | 2026 |
+| Cybersecurity | FIAP | 2026 |
+| Agentes Autônomos (Agentic AI) | FIAP | 2026 |
+| CC50 — Introdução à Ciência da Computação | Harvard | 2023 |
+| Scrum Fundamentals Certified (SFC) | VMEdu | 2024 |
 
 ---
 
