@@ -19,9 +19,9 @@
 
 ---
 
-Construo **produtos escaláveis com impacto real**. Meu diferencial é combinar 4+ anos de engenharia de software com um background em **Administração de Empresas** — o código que entrego resolve problemas de negócio, não apenas requisitos técnicos.
+Construo **produtos SaaS escaláveis de ponta a ponta** — do backend à interface. Meu diferencial é combinar 4+ anos de engenharia de software com um background em **Administração de Empresas**: o código que entrego resolve problemas de negócio e gera **ROI**, não apenas cumpre requisitos técnicos.
 
-Na **ITnsify**, liderei integrações enterprise de alto volume, automações que eliminaram até **90% do esforço manual** em rotinas críticas de RH e Financeiro, e a evolução arquitetural da plataforma de microsserviços.
+Como **Head of Development** na **ITnsify**, liderei a arquitetura de microsserviços e automações que eliminaram até **90% do esforço manual** em rotinas críticas de RH e Financeiro — trabalho que evoluiu para o **Sootz**, um produto de BPM/CRM. Hoje, na **E3 Digital**, sigo construindo produtos ponta a ponta com foco em automação, integração de **IA** e práticas de **DevSecOps**, certificado em **Cloud** e **Cybersecurity** pela FIAP.
 
 ---
 
