@@ -54,7 +54,7 @@ Na **ITnsify**, liderei integrações enterprise de alto volume, automações qu
 ## 🚀 Projetos em destaque
 
 <a href="https://github.com/icarogoggin/vaultscan">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=icarogoggin&repo=vaultscan&bg_color=0d1117&hide_border=true&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=icarogoggin&repo=vaultscan&bg_color=0d1117&hide_border=true&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7" />
 </a>
 
 <br clear="left"/>
@@ -64,7 +64,7 @@ Na **ITnsify**, liderei integrações enterprise de alto volume, automações qu
 <br />
 
 <a href="https://github.com/icarogoggin/ai-init-node">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=icarogoggin&repo=ai-init-node&bg_color=0d1117&hide_border=true&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=icarogoggin&repo=ai-init-node&bg_color=0d1117&hide_border=true&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7" />
 </a>
 
 <br clear="left"/>
@@ -85,8 +85,8 @@ Na **ITnsify**, liderei integrações enterprise de alto volume, automações qu
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=icarogoggin&show_icons=true&bg_color=0d1117&hide_border=true&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=icarogoggin&layout=compact&bg_color=0d1117&hide_border=true&title_color=a855f7&text_color=e2e8f0&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=icarogoggin&show_icons=true&bg_color=0d1117&hide_border=true&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarogoggin&layout=compact&bg_color=0d1117&hide_border=true&title_color=a855f7&text_color=e2e8f0&langs_count=6" />
 
 </div>
 
