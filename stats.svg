@@ -1,0 +1,49 @@
+<svg width="860" height="300" viewBox="0 0 860 300" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif">
+<rect x="1" y="1" width="858" height="298" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<rect x="1" y="1" width="858" height="6" rx="3" fill="#a855f7"/>
+<text x="34" y="52" fill="#e6edf3" font-size="24" font-weight="700">Ícaro Goggin</text>
+<text x="34" y="76" fill="#8b949e" font-size="14">Engenheiro de Software Full Stack · Estatísticas do GitHub</text>
+<line x1="34" y1="94" x2="826" y2="94" stroke="#30363d" stroke-width="1"/>
+<rect x="34" y="116" width="176" height="74" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="50" y="156" fill="#a855f7" font-size="30" font-weight="800">556</text>
+<text x="50" y="176" fill="#8b949e" font-size="12.5">Contribuicoes (12 meses)</text>
+<rect x="226" y="116" width="176" height="74" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="242" y="156" fill="#a855f7" font-size="30" font-weight="800">68</text>
+<text x="242" y="176" fill="#8b949e" font-size="12.5">Repositorios</text>
+<rect x="34" y="206" width="176" height="74" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="50" y="246" fill="#a855f7" font-size="30" font-weight="800">43</text>
+<text x="50" y="266" fill="#8b949e" font-size="12.5">Seguidores</text>
+<rect x="226" y="206" width="176" height="74" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="242" y="246" fill="#a855f7" font-size="30" font-weight="800">2018</text>
+<text x="242" y="266" fill="#8b949e" font-size="12.5">No GitHub desde</text>
+<text x="428" y="128" fill="#e6edf3" font-size="16" font-weight="700">Linguagens mais usadas</text>
+<clipPath id="barclip"><rect x="428" y="146" width="398" height="16" rx="8"/></clipPath>
+<g clip-path="url(#barclip)">
+<rect x="428.00" y="146" width="257.71" height="16" fill="#3178c6"/>
+<rect x="685.11" y="146" width="113.23" height="16" fill="#f1e05a"/>
+<rect x="797.74" y="146" width="10.95" height="16" fill="#e34c26"/>
+<rect x="808.09" y="146" width="8.16" height="16" fill="#663399"/>
+<rect x="815.65" y="146" width="6.17" height="16" fill="#3572A5"/>
+<rect x="821.22" y="146" width="2.99" height="16" fill="#00ADD8"/>
+<rect x="823.61" y="146" width="2.39" height="16" fill="#21262d"/>
+</g>
+<circle cx="434" cy="196" r="6" fill="#3178c6"/>
+<text x="448" y="200" fill="#e6edf3" font-size="13.5" font-weight="600">TypeScript</text>
+<text x="606" y="200" fill="#8b949e" font-size="13" text-anchor="end">64.6%</text>
+<circle cx="629" cy="196" r="6" fill="#f1e05a"/>
+<text x="643" y="200" fill="#e6edf3" font-size="13.5" font-weight="600">JavaScript</text>
+<text x="801" y="200" fill="#8b949e" font-size="13" text-anchor="end">28.3%</text>
+<circle cx="434" cy="226" r="6" fill="#e34c26"/>
+<text x="448" y="230" fill="#e6edf3" font-size="13.5" font-weight="600">HTML</text>
+<text x="606" y="230" fill="#8b949e" font-size="13" text-anchor="end">2.6%</text>
+<circle cx="629" cy="226" r="6" fill="#663399"/>
+<text x="643" y="230" fill="#e6edf3" font-size="13.5" font-weight="600">CSS</text>
+<text x="801" y="230" fill="#8b949e" font-size="13" text-anchor="end">1.9%</text>
+<circle cx="434" cy="256" r="6" fill="#3572A5"/>
+<text x="448" y="260" fill="#e6edf3" font-size="13.5" font-weight="600">Python</text>
+<text x="606" y="260" fill="#8b949e" font-size="13" text-anchor="end">1.4%</text>
+<circle cx="629" cy="256" r="6" fill="#00ADD8"/>
+<text x="643" y="260" fill="#e6edf3" font-size="13.5" font-weight="600">Go</text>
+<text x="801" y="260" fill="#8b949e" font-size="13" text-anchor="end">0.6%</text>
+<text x="34" y="284" fill="#8b949e" font-size="11">Dados reais agregados de 68 repositórios · atualizado manualmente</text>
+</svg>

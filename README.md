@@ -71,7 +71,7 @@ Na **ITnsify**, liderei integrações enterprise de alto volume, automações qu
 
 <div align="center">
 
-<img src="metrics.svg" alt="GitHub metrics — estatísticas, linguagens e calendário de contribuições de Ícaro Goggin" />
+<img src="stats.svg" alt="Estatísticas do GitHub de Ícaro Goggin — números e linguagens mais usadas" width="100%" />
 
 </div>
 
@@ -83,7 +83,7 @@ Na **ITnsify**, liderei integrações enterprise de alto volume, automações qu
   <img alt="Cobra comendo o grafo de contribuições do GitHub" src="https://raw.githubusercontent.com/icarogoggin/icarogoggin/output/github-snake.svg" />
 </picture>
 
-> Gráficos gerados automaticamente via GitHub Actions (atualizam sozinhos) — arquivos versionados, sem dependência de serviço externo.
+> 🐍 A cobra atualiza sozinha via GitHub Actions. 📊 Estatísticas agregadas de todos os 68 repositórios. Arquivos SVG versionados — renderizam sempre, sem depender de serviço externo.
 
 ---
 
