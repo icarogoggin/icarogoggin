@@ -41,6 +41,13 @@ Como **Head of Development** na **ITnsify**, liderei a arquitetura de microsserv
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
+**IA & Machine Learning**
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
 **Dados & Infraestrutura**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -69,9 +76,14 @@ Como **Head of Development** na **ITnsify**, liderei a arquitetura de microsserv
 
 | Projeto | O que é | Stack |
 |---------|---------|-------|
+| **[fraud-detection](https://github.com/icarogoggin/fraud-detection)** | Detecção de fraude em cartão de crédito com a **lógica de decisão fora do notebook**: pacote Python versionado, suíte de testes e especificação executável (`SPEC.md`). | Python · scikit-learn · XGBoost · SHAP · pytest |
+| **[assistente-financeiro-ia](https://github.com/icarogoggin/assistente-financeiro-ia)** | Agente financeiro com **guardrails construídos por TDD** e LLM rodando local — recusa pedidos fora de escopo em vez de improvisar. | Python · Ollama · Streamlit · pytest |
 | **[api_sistema_financeiro](https://github.com/icarogoggin/api_sistema_financeiro)** | API REST de gestão financeira com **Clean Architecture** e **DDD** — regras de negócio isoladas de framework e infraestrutura. | NestJS · Prisma · PostgreSQL · Swagger |
 | **[Inspector](https://github.com/icarogoggin/Inspector)** | App fullstack **assíncrono**: enfileira jobs e captura screenshots headless via Puppeteer, com storage S3-compatible. | NestJS · BullMQ · Puppeteer · MinIO |
 | **[Simulador-Elevadores-Go](https://github.com/icarogoggin/Simulador-Elevadores-Go)** | Motor de simulação **lock-free** (Actor Model) com despacho inteligente por ETA e telemetria em tempo real. | Go · Goroutines · Channels |
+| **[gitwrapped](https://github.com/icarogoggin/gitwrapped)** | Retrospectiva anual de código do GitHub em card compartilhável, no estilo Wrapped. | Next.js · TypeScript |
+
+📓 Também escrevo sobre o que aprendo — **[miniguia-estudos-notebooklm](https://github.com/icarogoggin/miniguia-estudos-notebooklm)**: caderno temático sobre engenharia de prompt para LLMs, com curadoria de fontes e registro de troubleshooting.
 
 ---
 
@@ -79,7 +91,7 @@ Como **Head of Development** na **ITnsify**, liderei a arquitetura de microsserv
 
 <div align="center">
 
-<img src="stats.svg?v=2" alt="Estatísticas do GitHub de Ícaro Goggin — números e linguagens mais usadas" width="100%" />
+<img src="stats.svg?v=3" alt="Estatísticas do GitHub de Ícaro Goggin — números e linguagens mais usadas" width="100%" />
 
 </div>
 
@@ -91,7 +103,7 @@ Como **Head of Development** na **ITnsify**, liderei a arquitetura de microsserv
   <img alt="Cobra comendo o grafo de contribuições do GitHub" src="https://raw.githubusercontent.com/icarogoggin/icarogoggin/output/github-snake.svg" />
 </picture>
 
-> 🐍 A cobra atualiza sozinha via GitHub Actions. 📊 Estatísticas agregadas de todos os 68 repositórios. Arquivos SVG versionados — renderizam sempre, sem depender de serviço externo.
+> 🐍 A cobra atualiza sozinha via GitHub Actions. 📊 Estatísticas agregadas de todos os 73 repositórios. Arquivos SVG versionados — renderizam sempre, sem depender de serviço externo.
 
 ---
 
